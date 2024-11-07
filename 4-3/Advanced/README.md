@@ -29,7 +29,7 @@
     import streamlit as st
     import requests
     
-    FASTAPI_URL = "http://hsj3925.iptime.org:8000/query"
+    FASTAPI_URL = "HIDDEN"
     
     st.title("Bot")
     
